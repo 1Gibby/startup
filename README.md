@@ -1,8 +1,7 @@
-# Your startup name here
+# Abby's Massage
 
 [My Notes](notes.md)
-
-A brief description of the application here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+My wife is the owner of her own in-home/in-office massage business (for real) and would benefit from a website where clients could schedule appointments, add what areas of the body they would like a massage, and be able to login and veiw past appointments.
 
 
 > [!NOTE]
@@ -26,7 +25,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 ### Elevator pitch
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Are you looking for a convienient and quick way to get in touch with a professional grade massage therapist? Do you simply not have the time to go to a salon or find a good place to gift your wife a massage to? Abby's massage covers every single one of these bases. 
 
 ### Design
 
