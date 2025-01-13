@@ -29,7 +29,7 @@ Are you looking for a convienient and quick way to get in touch with a professio
 
 ### Design
 
-![Design image](<img width="672" alt="Screenshot 2025-01-13 at 11 42 56 AM" src="https://github.com/user-attachments/assets/e9af41ad-5d3e-404f-ac1d-fbac4973ac84" />
+![Design image]( [screenie.pdf](https://github.com/user-attachments/files/18403026/screenie.pdf)
 )
 
 
