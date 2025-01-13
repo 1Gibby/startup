@@ -29,8 +29,8 @@ Are you looking for a convienient and quick way to get in touch with a professio
 
 ### Design
 
-![Design image](file:///Users/gibby/Desktop/screenie.pdf
-)
+[Design_Sketch.pdf](https://github.com/user-attachments/files/18403090/screenie.pdf)
+
 
 
 ### Key features
