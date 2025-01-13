@@ -17,11 +17,11 @@ My wife is the owner of her own in-home/in-office massage business (for real) an
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] Proper use of Markdown
-- [ ] A concise and compelling elevator pitch
-- [ ] Description of key features
+- [x] Proper use of Markdown
+- [x] A concise and compelling elevator pitch
+- [x] Description of key features
 - [ ] Description of how you will use each technology
-- [ ] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
+- [x] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
 ### Elevator pitch
 
@@ -29,32 +29,25 @@ Are you looking for a convienient and quick way to get in touch with a professio
 
 ### Design
 
-![Design image](placeholder.png)
+![Design image](<img width="672" alt="Screenshot 2025-01-13 at 11 42 56 AM" src="https://github.com/user-attachments/assets/e9af41ad-5d3e-404f-ac1d-fbac4973ac84" />
+)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-```mermaid
-sequenceDiagram
-    actor You
-    actor Website
-    You->>Website: Replace this with your design
-```
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- Users can schedule a one time appointment without logging in, starting with an interactible on what area of the body they need massaged
+- Returning users can chat with Abby or myself and view past massages and what they had worked on.
+- Interactible diagram will highlight selected parts of the body that the client wants worked on and are saved to be reviewed by Abby.
 
 ### Technologies
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
+- **HTML** - Front end for scheduling and appointment details
 - **CSS** - Description here
 - **React** - Description here
 - **Service** - Description here
-- **DB/Login** - Description here
+- **DB/Login** - Saving User appointments and conversations with Abby
 - **WebSocket** - Description here
 
 ## 🚀 AWS deliverable
