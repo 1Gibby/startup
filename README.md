@@ -20,7 +20,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] Proper use of Markdown
 - [x] A concise and compelling elevator pitch
 - [x] Description of key features
-- [ ] Description of how you will use each technology
+- [x] Description of how you will use each technology
 - [x] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
 ### Elevator pitch
@@ -44,11 +44,11 @@ Are you looking for a convienient and quick way to get in touch with a professio
 I am going to use the required technologies in the following ways.
 
 - **HTML** - Front end for scheduling and appointment details
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
+- **CSS** - Make the website engaging and possibly show logos or animations that engage the user
+- **React** - House links and interactibles within the webpage
+- **Service** - Allow users to set appointments and receive in-home/in-office massages
 - **DB/Login** - Saving User appointments and conversations with Abby
-- **WebSocket** - Description here
+- **WebSocket** - House and keep the website running
 
 ## 🚀 AWS deliverable
 
