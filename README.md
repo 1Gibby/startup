@@ -29,7 +29,7 @@ Are you looking for a convienient and quick way to get in touch with a professio
 
 ### Design
 
-![Design image]( [screenie.pdf](https://github.com/user-attachments/files/18403026/screenie.pdf)
+![Design image](file:///Users/gibby/Desktop/screenie.pdf
 )
 
 
