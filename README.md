@@ -41,7 +41,7 @@ Are you looking for a convienient and quick way to get in touch with a professio
 
 ### Technologies
 
-I am going to use the required technologies in the following ways.
+I am going to use the required technologies in the following ways:
 
 - **HTML** - Front end for scheduling and appointment details
 - **CSS** - Make the website engaging and possibly show logos or animations that engage the user
